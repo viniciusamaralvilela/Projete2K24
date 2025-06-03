@@ -1,4 +1,4 @@
-# 🚌 Projete2K24 – Sistema de Passe de Ônibus Inteligente
+# 🚌 Projete2K24 – Sustentabilidade no Passe de Ônibus
 
 **Projete2K24** é um projeto desenvolvido para modernizar o sistema de passes de ônibus em cidades do interior, eliminando o uso de papel e promovendo a sustentabilidade ambiental. A solução utiliza tecnologia RFID e microcontroladores para oferecer uma experiência de transporte público mais prática e ecológica.
 
