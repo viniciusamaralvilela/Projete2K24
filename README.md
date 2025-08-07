@@ -27,11 +27,11 @@ Desenvolver um sistema de passe de ônibus que substitua os bilhetes de papel po
 
 ## 🤝 Grupo
 
-> Vinícius Amaral Vilela
+- > Vinícius Amaral Vilela
 - 🔗 [GitHub](https://github.com/viniciusamralvilela)
-> Matheus Prado Ribeiro
+- > Matheus Prado Ribeiro
 - 🔗 [GitHub](https://github.com/MPRPrado)
-> Gustavo Fagundes Pereira
+- > Gustavo Fagundes Pereira
 - > Maria Morena
 
 ## 📋 Instituição
