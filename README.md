@@ -32,7 +32,7 @@ Desenvolver um sistema de passe de ônibus que substitua os bilhetes de papel po
 > Matheus Prado Ribeiro
 - 🔗 [GitHub](https://github.com/MPRPrado)
 > Gustavo Fagundes Pereira
-> Maria Morena
+- > Maria Morena
 
 ## 📋 Instituição
 > Escola Técnica "Francisco Moreira da Costa"
