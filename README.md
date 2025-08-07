@@ -1,3 +1,4 @@
+[Inglês](README_en.md)
 # 🚌 Projete2K24 – Sustentabilidade no Passe de Ônibus
 
 **Projete2K24** é um projeto desenvolvido para modernizar o sistema de passes de ônibus em cidades do interior, eliminando o uso de papel e promovendo a sustentabilidade ambiental. A solução utiliza tecnologia RFID e microcontroladores para oferecer uma experiência de transporte público mais prática e ecológica.
@@ -14,14 +15,6 @@ Desenvolver um sistema de passe de ônibus que substitua os bilhetes de papel po
 - **Bluetooth**
 - **Aplicativo Móvel**
 
-## 📦 Estrutura do Projeto
-
-```
-Projete2K24/
-├── PROJETEFINAL.ino
-└── README.md
-```
-
 ## 📋 Requisitos
 
 - Placa ESP32
@@ -30,23 +23,17 @@ Projete2K24/
 - Cartões RFID
 - Componentes eletrônicos adicionais
 - IDE do Arduino
+- Catraca
 
-## 🔧 Instalação e Uso
+## 🤝 Grupo
 
-```bash
-git clone https://github.com/viniciusamaralvilela/Projete2K24.git
-```
+> Vinícius Amaral Vilela
+- 🔗 [GitHub](https://github.com/viniciusamralvilela)
+> Matheus Prado Ribeiro
+- 🔗 [GitHub](https://github.com/MPRPrado)
+> Gustavo Fagundes Pereira
+> Maria Morena
 
-1. Abra `PROJETEFINAL.ino` na IDE do Arduino.
-2. Conecte a placa ESP32 e envie o código.
-3. Monte o circuito conforme o projeto.
-4. Use o app para recarregar e testar o passe.
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Abra issues ou pull requests.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
+## 📋 Instituição
+> Escola Técnica "Francisco Moreira da Costa"
+> Esse projeto foi realizado no segundo ano do curso técnico da instituição
